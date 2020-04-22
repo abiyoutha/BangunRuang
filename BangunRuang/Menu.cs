@@ -68,6 +68,7 @@ namespace BangunRuang
                     }
             }
         }
+
         public void ulang()
         {
             Console.Write("Apakah Anda Ingin Menghitung Lagi? (Y/N)");
